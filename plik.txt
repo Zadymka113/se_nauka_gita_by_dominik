@@ -1,0 +1,1 @@
+Zmień zawartość pliku plik.txt 
